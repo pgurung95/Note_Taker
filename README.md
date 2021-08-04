@@ -1,6 +1,6 @@
 # Note_Taker
 
-### URL : https://pgurung95.github.io/Note_Taker/
+### URL : https://git.heroku.com/note-taker-application123.git
 
 ## Description
 An application called Note Taker that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.

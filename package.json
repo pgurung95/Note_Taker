@@ -1,0 +1,25 @@
+{
+  "name": "Note_Taker",
+  "version": "1.0.0",
+  "description": "### URL : https://git.heroku.com/note-taker-application123.git",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pgurung95/Note_Taker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pgurung95/Note_Taker/issues"
+  },
+  "homepage": "https://github.com/pgurung95/Note_Taker#readme"
+}
